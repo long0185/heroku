@@ -20,7 +20,7 @@ config/tunnel.pid
 
 # vite build output
 dist/
-
+test/
 # extensions build output
 extensions/*/build
 
