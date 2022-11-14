@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   distDir:'dist',
-  basePath:'dist'
+  basePath:'/dist'
 }
 
 module.exports = nextConfig
